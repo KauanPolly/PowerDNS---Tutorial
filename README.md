@@ -1,6 +1,6 @@
 
 
-# PowerDNS --- Tutorial
+# PowerDNS - Tutorial
 
 Este repositório contém uma configuração completa e funcional do PowerDNS com os modos Authoritative e Recursor separados, sem banco de dados, utilizando arquivos de zona BIND e IPs de documentação. Ideal para testes, aprendizado e uso como template público.
 
